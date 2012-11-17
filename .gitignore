@@ -24,3 +24,7 @@ doc/app
 *~
 .DS_Store
 
+# RubyMine
+.idea
+
+
